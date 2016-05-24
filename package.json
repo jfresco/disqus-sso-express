@@ -1,0 +1,17 @@
+{
+  "name": "disqus-sso-express",
+  "version": "0.1.0",
+  "description": "Disqus SSO Express middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "disqus",
+    "sso",
+    "express",
+    "authentication"
+  ],
+  "author": "José Fresco <josemariafresco@gmail.com>",
+  "license": "MIT"
+}
